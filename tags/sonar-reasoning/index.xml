@@ -1,0 +1,4761 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sonar-Reasoning on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/tags/sonar-reasoning/</link><description>Recent content in Sonar-Reasoning on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><atom:link href="https://bench-sv.ai-term-hub.com/tags/sonar-reasoning/index.xml" rel="self" type="application/rss+xml"/><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/ar/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="نظرة-عامة-على-حالة-الاستخدام">نظرة عامة على حالة الاستخدام&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="النماذج-الموصى-بها">النماذج الموصى بها&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>الترتيب&lt;/th>
+ &lt;th>المزود&lt;/th>
+ &lt;th>نافذة السياق&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;h3 id="أداء-المعايير">أداء المعايير&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>المعيار&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="نقاط-القوة">نقاط القوة&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="المتطلبات">المتطلبات&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/de/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="anwendungsfallübersicht">Anwendungsfallübersicht&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="empfohlene-modelle">Empfohlene Modelle&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Rang&lt;/th>
+ &lt;th>Anbieter&lt;/th>
+ &lt;th>Kontextfenster&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;h3 id="benchmark-leistung">Benchmark-Leistung&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="stärken">Stärken&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="anforderungen">Anforderungen&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/en/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="use-case-overview">Use Case Overview&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="recommended-models">Recommended Models&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Rank&lt;/th>
+ &lt;th>Vendor&lt;/th>
+ &lt;th>Context Window&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;h3 id="benchmark-performance">Benchmark Performance&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="strengths">Strengths&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="requirements">Requirements&lt;/h2>
+&lt;ul>
+&lt;li>API key from other&lt;/li>
+&lt;li>Input length within 127K context window&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/es/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="descripción-del-caso-de-uso">Descripción del caso de uso&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="modelos-recomendados">Modelos recomendados&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Rango&lt;/th>
+ &lt;th>Proveedor&lt;/th>
+ &lt;th>Ventana de contexto&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;h3 id="rendimiento-en-benchmarks">Rendimiento en benchmarks&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fortalezas">Fortalezas&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="requisitos">Requisitos&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/fr/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="aperçu-du-cas-dusage">Aperçu du cas d&amp;rsquo;usage&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="modèles-recommandés">Modèles recommandés&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Rang&lt;/th>
+ &lt;th>Fournisseur&lt;/th>
+ &lt;th>Fenêtre de contexte&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;h3 id="performance-aux-benchmarks">Performance aux benchmarks&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="forces">Forces&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="exigences">Exigences&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/he/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="סקירת-מקרה-שימוש">סקירת מקרה שימוש&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="מודלים-מומלצים">מודלים מומלצים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג&lt;/th>
+ &lt;th>ספק&lt;/th>
+ &lt;th>חלון הקשר&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;h3 id="ביצועי-בנצמרק">ביצועי בנצ&amp;rsquo;מרק&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>בנצ&amp;rsquo;מרק&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="חוזקות">חוזקות&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="דרישות">דרישות&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/hi/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="उपयग-कस-अवलकन">उपयोग केस अवलोकन&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="अनशसत-मडल">अनुशंसित मॉडल&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>रैंक&lt;/th>
+ &lt;th>विक्रेता&lt;/th>
+ &lt;th>संदर्भ विंडो&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;h3 id="बचमरक-परदरशन">बेंचमार्क प्रदर्शन&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>बेंचमार्क&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="तकत">ताकत&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="आवशयकतए">आवश्यकताएं&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/id/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="ikhtisar-kasus-penggunaan">Ikhtisar Kasus Penggunaan&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="model-rekomendasi">Model Rekomendasi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat&lt;/th>
+ &lt;th>Vendor&lt;/th>
+ &lt;th>Jendela Konteks&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;h3 id="kinerja-benchmark">Kinerja Benchmark&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="kelebihan">Kelebihan&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="persyaratan">Persyaratan&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/it/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="panoramica-caso-duso">Panoramica caso d&amp;rsquo;uso&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="modelli-consigliati">Modelli consigliati&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica&lt;/th>
+ &lt;th>Fornitore&lt;/th>
+ &lt;th>Finestra di contesto&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;h3 id="prestazioni-benchmark">Prestazioni benchmark&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="punti-di-forza">Punti di forza&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="requisiti">Requisiti&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/ja/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="ユースケース概要">ユースケース概要&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="推奨モデル">推奨モデル&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ランク&lt;/th>
+ &lt;th>ベンダー&lt;/th>
+ &lt;th>コンテキストウィンドウ&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;h3 id="ベンチマークパフォーマンス">ベンチマークパフォーマンス&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ベンチマーク&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="強み">強み&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="要件">要件&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/ko/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="사용-사례-개요">사용 사례 개요&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="추천-모델">추천 모델&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>순위&lt;/th>
+ &lt;th>공급업체&lt;/th>
+ &lt;th>컨텍스트 창&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;h3 id="벤치마크-성능">벤치마크 성능&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>벤치마크&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="강점">강점&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="요구사항">요구사항&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/nl/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="overzicht-gebruiksscenario">Overzicht gebruiksscenario&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="aanbevolen-modellen">Aanbevolen modellen&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Rang&lt;/th>
+ &lt;th>Leverancier&lt;/th>
+ &lt;th>Contextvenster&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;h3 id="benchmarkprestaties">Benchmarkprestaties&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="sterktes">Sterktes&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="vereisten">Vereisten&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/pl/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="przegląd-przypadku-użycia">Przegląd przypadku użycia&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="polecane-modele">Polecane modele&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranga&lt;/th>
+ &lt;th>Dostawca&lt;/th>
+ &lt;th>Okno kontekstowe&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;h3 id="wydajność-benchmarków">Wydajność benchmarków&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="mocne-strony">Mocne strony&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="wymagania">Wymagania&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/pt/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="visão-geral-do-caso-de-uso">Visão geral do caso de uso&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="modelos-recomendados">Modelos recomendados&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classificação&lt;/th>
+ &lt;th>Fornecedor&lt;/th>
+ &lt;th>Janela de contexto&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;h3 id="desempenho-em-benchmarks">Desempenho em benchmarks&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="pontos-fortes">Pontos fortes&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="requisitos">Requisitos&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/ru/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="обзор-сценария">Обзор сценария&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="рекомендуемые-модели">Рекомендуемые модели&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ранг&lt;/th>
+ &lt;th>Поставщик&lt;/th>
+ &lt;th>Окно контекста&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;h3 id="производительность">Производительность&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Бенчмарк&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="сильные-стороны">Сильные стороны&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="требования">Требования&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/sv/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="användningsöversikt">Användningsöversikt&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="rekommenderade-modeller">Rekommenderade modeller&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Rang&lt;/th>
+ &lt;th>Leverantör&lt;/th>
+ &lt;th>Kontextfönster&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;h3 id="benchmarkprestanda">Benchmarkprestanda&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="styrkor">Styrkor&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="krav">Krav&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="användningsöversikt">Användningsöversikt&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="rekommenderade-modeller">Rekommenderade modeller&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Rang&lt;/th>
+ &lt;th>Leverantör&lt;/th>
+ &lt;th>Kontextfönster&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;h3 id="benchmarkprestanda">Benchmarkprestanda&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="styrkor">Styrkor&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="krav">Krav&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/tr/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="kullanım-senaryosu-genel-bakışı">Kullanım Senaryosu Genel Bakışı&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="önerilen-modeller">Önerilen Modeller&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Sıralama&lt;/th>
+ &lt;th>Satıcı&lt;/th>
+ &lt;th>Bağlam Penceresi&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;h3 id="benchmark-performansı">Benchmark Performansı&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="güçlü-yönler">Güçlü Yönler&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="gereksinimler">Gereksinimler&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Multi-step Planning Recommendation: Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/vi/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="multi-step-planning--sonar-reasoning">Multi-step Planning → Sonar Reasoning&lt;/h1>
+&lt;h2 id="tổng-quan-trường-hợp-sử-dụng">Tổng quan trường hợp sử dụng&lt;/h2>
+&lt;p>Sonar Reasoning by Other is a recommended option for the Multi-step Planning use case.&lt;/p>
+&lt;h2 id="mô-hình-được-đề-xuất">Mô hình được đề xuất&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng&lt;/th>
+ &lt;th>Nhà cung cấp&lt;/th>
+ &lt;th>Cửa sổ ngữ cảnh&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;h3 id="hiệu-suất-benchmark">Hiệu suất benchmark&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="điểm-mạnh">Điểm mạnh&lt;/h2>
+&lt;ul>
+&lt;li>MMLU score 87.7, strong knowledge reasoning.&lt;/li>
+&lt;li>HumanEval 81.1, excellent code generation.&lt;/li>
+&lt;li>GSM8K 89.8, robust math reasoning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="yêu-cầu">Yêu cầu&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on ARC: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 96.2 on ARC.&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on BBH (BIG-Bench Hard): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.4 on BBH (BIG-Bench Hard).&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GPQA: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.1 on GPQA.&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on GSM8K (Grade School Math 8K): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 89.8 on GSM8K (Grade School Math 8K).&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on HumanEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 81.1 on HumanEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on IFEval: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 83.1 on IFEval.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MATH: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 50.7 on MATH.&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MMLU (Massive Multitask Language Understanding): Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.7 on MMLU (Massive Multitask Language Understanding).&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on MUSR: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 69.4 on MUSR.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="تفصيل-النتائج">تفصيل النتائج&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ترتيب النماذج&lt;/th>
+ &lt;th>النتيجة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="تحليل-الأداء">تحليل الأداء&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="ergebnisaufschlüsselung">Ergebnisaufschlüsselung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modell-Ranking&lt;/th>
+ &lt;th>Ergebnis&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="leistungsanalyse">Leistungsanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="score-breakdown">Score Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Ranking&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-analysis">Performance Analysis&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="desglose-de-puntuaciones">Desglose de puntuaciones&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Puntuación&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análisis-de-rendimiento">Análisis de rendimiento&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="détail-des-scores">Détail des scores&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classement des modèles&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analyse-de-performance">Analyse de performance&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="פירוט-ציונים">פירוט ציונים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>דירוג מודלים&lt;/th>
+ &lt;th>ציון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ניתוח-ביצועים">ניתוח ביצועים&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="सकर-ववरण">स्कोर विवरण&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>मॉडल रैंकिंग&lt;/th>
+ &lt;th>स्कोर&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="परदरशन-वशलषण">प्रदर्शन विश्लेषण&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="rincian-skor">Rincian Skor&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Peringkat Model&lt;/th>
+ &lt;th>Skor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisis-kinerja">Analisis Kinerja&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="dettaglio-punteggi">Dettaglio punteggi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Classifica modelli&lt;/th>
+ &lt;th>Punteggio&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analisi-delle-prestazioni">Analisi delle prestazioni&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="スコア内訳">スコア内訳&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>モデルランキング&lt;/th>
+ &lt;th>スコア&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="パフォーマンス分析">パフォーマンス分析&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="점수-내역">점수 내역&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>모델 순위&lt;/th>
+ &lt;th>점수&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="성능-분석">성능 분석&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="scoreoverzicht">Scoreoverzicht&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modelranglijst&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestatieanalyse">Prestatieanalyse&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="podział-wyników">Podział wyników&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking modeli&lt;/th>
+ &lt;th>Wynik&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="analiza-wydajności">Analiza wydajności&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="detalhamento-de-pontuação">Detalhamento de pontuação&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Ranking de modelos&lt;/th>
+ &lt;th>Pontuação&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="análise-de-desempenho">Análise de desempenho&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="детализация-очков">Детализация очков&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Рейтинг моделей&lt;/th>
+ &lt;th>Очки&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="анализ-производительности">Анализ производительности&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="poängfördelning">Poängfördelning&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Modellrankning&lt;/th>
+ &lt;th>Poäng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestationsanalys">Prestationsanalys&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="puan-dökümü">Puan Dökümü&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Model Sıralaması&lt;/th>
+ &lt;th>Puan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performans-analizi">Performans Analizi&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning on WinoGrande: Score Breakdown</title><link>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="phân-tích-điểm">Phân tích điểm&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Xếp hạng mô hình&lt;/th>
+ &lt;th>Điểm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="phân-tích-hiệu-suất">Phân tích hiệu suất&lt;/h2>
+&lt;p>Sonar Reasoning achieves 87.2 on WinoGrande.&lt;/p></description></item><item><title>Sonar Reasoning 在 ARC 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-arc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-arc/</guid><description>&lt;h1 id="sonar-reasoning--arc">Sonar Reasoning × ARC&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#4 / 195&lt;/td>
+ &lt;td>96.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 ARC 上取得 96.2 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 BBH (BIG-Bench Hard) 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-bbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-bbh/</guid><description>&lt;h1 id="sonar-reasoning--bbh-big-bench-hard">Sonar Reasoning × BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 BBH (BIG-Bench Hard) 上取得 83.4 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 GPQA 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-gpqa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-gpqa/</guid><description>&lt;h1 id="sonar-reasoning--gpqa">Sonar Reasoning × GPQA&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#13 / 195&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 GPQA 上取得 50.1 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 GSM8K (Grade School Math 8K) 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-gsm8k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-gsm8k/</guid><description>&lt;h1 id="sonar-reasoning--gsm8k-grade-school-math-8k">Sonar Reasoning × GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#17 / 205&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 GSM8K (Grade School Math 8K) 上取得 89.8 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 HumanEval 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-humaneval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-humaneval/</guid><description>&lt;h1 id="sonar-reasoning--humaneval">Sonar Reasoning × HumanEval&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#26 / 205&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 HumanEval 上取得 81.1 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 IFEval 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-ifeval/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-ifeval/</guid><description>&lt;h1 id="sonar-reasoning--ifeval">Sonar Reasoning × IFEval&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#7 / 195&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 IFEval 上取得 83.1 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 MATH 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-math/</guid><description>&lt;h1 id="sonar-reasoning--math">Sonar Reasoning × MATH&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#42 / 205&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 MATH 上取得 50.7 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 MMLU (Massive Multitask Language Understanding) 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-mmlu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-mmlu/</guid><description>&lt;h1 id="sonar-reasoning--mmlu-massive-multitask-language-understanding">Sonar Reasoning × MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#6 / 205&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 MMLU (Massive Multitask Language Understanding) 上取得 87.7 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 MUSR 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-musr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-musr/</guid><description>&lt;h1 id="sonar-reasoning--musr">Sonar Reasoning × MUSR&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#5 / 195&lt;/td>
+ &lt;td>69.4&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 MUSR 上取得 69.4 分。&lt;/p></description></item><item><title>Sonar Reasoning 在 WinoGrande 上的得分</title><link>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-winogrande/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/scores/sonar-reasoning-winogrande/</guid><description>&lt;h1 id="sonar-reasoning--winogrande">Sonar Reasoning × WinoGrande&lt;/h1>
+&lt;h2 id="得分明细">得分明细&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>模型排名&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8 / 195&lt;/td>
+ &lt;td>87.2&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;p>Sonar Reasoning 在 WinoGrande 上取得 87.2 分。&lt;/p></description></item><item><title>多步规划 场景推荐：Sonar Reasoning</title><link>https://bench-sv.ai-term-hub.com/zh/use-cases/multi-step-planning/sonar-reasoning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/use-cases/multi-step-planning/sonar-reasoning/</guid><description>&lt;h1 id="多步规划--sonar-reasoning">多步规划 → Sonar Reasoning&lt;/h1>
+&lt;h2 id="场景概述">场景概述&lt;/h2>
+&lt;p>Sonar Reasoning 由 Other 发布，是 多步规划 场景下的推荐选项之一。&lt;/p>
+&lt;h2 id="推荐模型">推荐模型&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>排名&lt;/th>
+ &lt;th>厂商&lt;/th>
+ &lt;th>上下文窗口&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>#8&lt;/td>
+ &lt;td>Other&lt;/td>
+ &lt;td>127K&lt;/td>
+ &lt;td>37/100&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="性能分析">性能分析&lt;/h2>
+&lt;h3 id="基准测试表现">基准测试表现&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HUMANEVAL&lt;/td>
+ &lt;td>81.1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>50.7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.4&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>50.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="优势">优势&lt;/h2>
+&lt;ul>
+&lt;li>MMLU 得分 87.7，知识推理能力强。&lt;/li>
+&lt;li>HumanEval 81.1，代码生成能力出色。&lt;/li>
+&lt;li>GSM8K 89.8，数学推理稳健。&lt;/li>
+&lt;/ul>
+&lt;h2 id="需求">需求&lt;/h2>
+&lt;ul>
+&lt;li>需要 other 的 API 密钥&lt;/li>
+&lt;li>输入长度须在 127K 上下文窗口内&lt;/li>
+&lt;/ul></description></item></channel></rss>

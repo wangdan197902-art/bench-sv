@@ -1,0 +1,3961 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cohere on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/tags/cohere/</link><description>Recent content in Cohere on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bench-sv.ai-term-hub.com/tags/cohere/index.xml" rel="self" type="application/rss+xml"/><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/ar/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-ضد-command-r">Llama 3.1 405B ضد Command R+&lt;/h1>
+&lt;h2 id="نظرة-عامة-على-النموذج">نظرة عامة على النموذج&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="المواصفات-الرئيسية">المواصفات الرئيسية&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>المزود&lt;/th>
+ &lt;th>تاريخ الإصدار&lt;/th>
+ &lt;th>نافذة السياق&lt;/th>
+ &lt;th>الترخيص&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="أداء-المعايير">أداء المعايير&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>المعيار&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>الفائز&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="مقارنة-الأسعار">مقارنة الأسعار&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>الإدخال&lt;/th>
+ &lt;th>الإخراج&lt;/th>
+ &lt;th>قراءة الذاكرة المؤقتة&lt;/th>
+ &lt;th>كتابة الذاكرة المؤقتة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>لكل مليون رمز — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/de/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-gegen-command-r">Llama 3.1 405B gegen Command R+&lt;/h1>
+&lt;h2 id="modellübersicht">Modellübersicht&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="hauptspezifikationen">Hauptspezifikationen&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Anbieter&lt;/th>
+ &lt;th>Veröffentlichungsdatum&lt;/th>
+ &lt;th>Kontextfenster&lt;/th>
+ &lt;th>Lizenz&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark-leistung">Benchmark-Leistung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Gewinner&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="preisvergleich">Preisvergleich&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Eingabe&lt;/th>
+ &lt;th>Ausgabe&lt;/th>
+ &lt;th>Cache-Lesen&lt;/th>
+ &lt;th>Cache-Schreiben&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>pro Million Token — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/en/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-vs-command-r">Llama 3.1 405B vs Command R+&lt;/h1>
+&lt;h2 id="model-overview">Model Overview&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="key-specifications">Key Specifications&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Vendor&lt;/th>
+ &lt;th>Release Date&lt;/th>
+ &lt;th>Context Window&lt;/th>
+ &lt;th>License&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark-performance">Benchmark Performance&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Winner&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="pricing-comparison">Pricing Comparison&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Input&lt;/th>
+ &lt;th>Output&lt;/th>
+ &lt;th>Cache Read&lt;/th>
+ &lt;th>Cache Write&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per million tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/es/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-contra-command-r">Llama 3.1 405B contra Command R+&lt;/h1>
+&lt;h2 id="descripción-del-modelo">Descripción del modelo&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="especificaciones-clave">Especificaciones clave&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Proveedor&lt;/th>
+ &lt;th>Fecha de lanzamiento&lt;/th>
+ &lt;th>Ventana de contexto&lt;/th>
+ &lt;th>Licencia&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="rendimiento-en-benchmarks">Rendimiento en benchmarks&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Ganador&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="comparación-de-precios">Comparación de precios&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Entrada&lt;/th>
+ &lt;th>Salida&lt;/th>
+ &lt;th>Lectura caché&lt;/th>
+ &lt;th>Escritura caché&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>por millón de tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/fr/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-contre-command-r">Llama 3.1 405B contre Command R+&lt;/h1>
+&lt;h2 id="aperçu-du-modèle">Aperçu du modèle&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="spécifications-clés">Spécifications clés&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Fournisseur&lt;/th>
+ &lt;th>Date de sortie&lt;/th>
+ &lt;th>Fenêtre de contexte&lt;/th>
+ &lt;th>Licence&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-aux-benchmarks">Performance aux benchmarks&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Gagnant&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="comparaison-des-prix">Comparaison des prix&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Entrée&lt;/th>
+ &lt;th>Sortie&lt;/th>
+ &lt;th>Lecture cache&lt;/th>
+ &lt;th>Écriture cache&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>par million de jetons — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/he/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-נגד-command-r">Llama 3.1 405B נגד Command R+&lt;/h1>
+&lt;h2 id="סקירת-מודל">סקירת מודל&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="מפרט-עיקרי">מפרט עיקרי&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ספק&lt;/th>
+ &lt;th>תאריך שחרור&lt;/th>
+ &lt;th>חלון הקשר&lt;/th>
+ &lt;th>רישיון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ביצועי-בנצמרק">ביצועי בנצ&amp;rsquo;מרק&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>בנצ&amp;rsquo;מרק&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>זוכה&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="השוואת-מחירים">השוואת מחירים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>קלט&lt;/th>
+ &lt;th>פלט&lt;/th>
+ &lt;th>קריאת מטמון&lt;/th>
+ &lt;th>כתיבת מטמון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>לכל מיליון טוקנים — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/hi/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-बनम-command-r">Llama 3.1 405B बनाम Command R+&lt;/h1>
+&lt;h2 id="मडल-अवलकन">मॉडल अवलोकन&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="मखय-वशषटतए">मुख्य विशिष्टताएं&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>विक्रेता&lt;/th>
+ &lt;th>रिलीज़ तिथि&lt;/th>
+ &lt;th>संदर्भ विंडो&lt;/th>
+ &lt;th>लाइसेंस&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="बचमरक-परदरशन">बेंचमार्क प्रदर्शन&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>बेंचमार्क&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>विजेता&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="मलय-तलन">मूल्य तुलना&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>इनपुट&lt;/th>
+ &lt;th>आउटपुट&lt;/th>
+ &lt;th>कैश पढ़ें&lt;/th>
+ &lt;th>कैश लिखें&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>प्रति मिलियन टोकन — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/id/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-vs-command-r">Llama 3.1 405B vs Command R+&lt;/h1>
+&lt;h2 id="ikhtisar-model">Ikhtisar Model&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="spesifikasi-utama">Spesifikasi Utama&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Vendor&lt;/th>
+ &lt;th>Tanggal Rilis&lt;/th>
+ &lt;th>Jendela Konteks&lt;/th>
+ &lt;th>Lisensi&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="kinerja-benchmark">Kinerja Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Pemenang&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="perbandingan-harga">Perbandingan Harga&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Input&lt;/th>
+ &lt;th>Output&lt;/th>
+ &lt;th>Baca Cache&lt;/th>
+ &lt;th>Tulis Cache&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per juta token — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/it/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-contro-command-r">Llama 3.1 405B contro Command R+&lt;/h1>
+&lt;h2 id="panoramica-del-modello">Panoramica del modello&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="specifiche-chiave">Specifiche chiave&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Fornitore&lt;/th>
+ &lt;th>Data di rilascio&lt;/th>
+ &lt;th>Finestra di contesto&lt;/th>
+ &lt;th>Licenza&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestazioni-benchmark">Prestazioni benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Vincitore&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="confronto-prezzi">Confronto prezzi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Input&lt;/th>
+ &lt;th>Output&lt;/th>
+ &lt;th>Lettura cache&lt;/th>
+ &lt;th>Scrittura cache&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per milione di token — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/ja/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-対-command-r">Llama 3.1 405B 対 Command R+&lt;/h1>
+&lt;h2 id="モデル概要">モデル概要&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="主要仕様">主要仕様&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ベンダー&lt;/th>
+ &lt;th>リリース日&lt;/th>
+ &lt;th>コンテキストウィンドウ&lt;/th>
+ &lt;th>ライセンス&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ベンチマークパフォーマンス">ベンチマークパフォーマンス&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ベンチマーク&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>勝者&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="料金比較">料金比較&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>入力&lt;/th>
+ &lt;th>出力&lt;/th>
+ &lt;th>キャッシュ読み取り&lt;/th>
+ &lt;th>キャッシュ書き込み&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>100万トークンあたり — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/ko/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-대-command-r">Llama 3.1 405B 대 Command R+&lt;/h1>
+&lt;h2 id="모델-개요">모델 개요&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="핵심-사양">핵심 사양&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>공급업체&lt;/th>
+ &lt;th>출시일&lt;/th>
+ &lt;th>컨텍스트 창&lt;/th>
+ &lt;th>라이선스&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="벤치마크-성능">벤치마크 성능&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>벤치마크&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>승자&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="가격-비교">가격 비교&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>입력&lt;/th>
+ &lt;th>출력&lt;/th>
+ &lt;th>캐시 읽기&lt;/th>
+ &lt;th>캐시 쓰기&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>백만 토큰당 — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/nl/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-tegen-command-r">Llama 3.1 405B tegen Command R+&lt;/h1>
+&lt;h2 id="modeloverzicht">Modeloverzicht&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="belangrijkste-specificaties">Belangrijkste specificaties&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Leverancier&lt;/th>
+ &lt;th>Releasedatum&lt;/th>
+ &lt;th>Contextvenster&lt;/th>
+ &lt;th>Licentie&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmarkprestaties">Benchmarkprestaties&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Winnaar&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prijsvergelijking">Prijsvergelijking&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Invoer&lt;/th>
+ &lt;th>Uitvoer&lt;/th>
+ &lt;th>Cache-lezen&lt;/th>
+ &lt;th>Cache-schrijven&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per miljoen tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/pl/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-kontra-command-r">Llama 3.1 405B kontra Command R+&lt;/h1>
+&lt;h2 id="przegląd-modelu">Przegląd modelu&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="kluczowe-specyfikacje">Kluczowe specyfikacje&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Dostawca&lt;/th>
+ &lt;th>Data wydania&lt;/th>
+ &lt;th>Okno kontekstowe&lt;/th>
+ &lt;th>Licencja&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="wydajność-benchmarków">Wydajność benchmarków&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Zwycięzca&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="porównanie-cen">Porównanie cen&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Wejście&lt;/th>
+ &lt;th>Wyjście&lt;/th>
+ &lt;th>Odczyt pamięci podręcznej&lt;/th>
+ &lt;th>Zapis pamięci podręcznej&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>za milion tokenów — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/pt/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-contra-command-r">Llama 3.1 405B contra Command R+&lt;/h1>
+&lt;h2 id="visão-geral-do-modelo">Visão geral do modelo&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="especificações-principais">Especificações principais&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Fornecedor&lt;/th>
+ &lt;th>Data de lançamento&lt;/th>
+ &lt;th>Janela de contexto&lt;/th>
+ &lt;th>Licença&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="desempenho-em-benchmarks">Desempenho em benchmarks&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Vencedor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="comparação-de-preços">Comparação de preços&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Entrada&lt;/th>
+ &lt;th>Saída&lt;/th>
+ &lt;th>Leitura de cache&lt;/th>
+ &lt;th>Escrita de cache&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>por milhão de tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/ru/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-против-command-r">Llama 3.1 405B против Command R+&lt;/h1>
+&lt;h2 id="обзор-модели">Обзор модели&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="ключевые-характеристики">Ключевые характеристики&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Поставщик&lt;/th>
+ &lt;th>Дата выпуска&lt;/th>
+ &lt;th>Окно контекста&lt;/th>
+ &lt;th>Лицензия&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="производительность">Производительность&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Бенчмарк&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Победитель&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="сравнение-цен">Сравнение цен&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Вход&lt;/th>
+ &lt;th>Выход&lt;/th>
+ &lt;th>Чтение кэша&lt;/th>
+ &lt;th>Запись кэша&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>за миллион токенов — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-mot-command-r">Llama 3.1 405B mot Command R+&lt;/h1>
+&lt;h2 id="modellöversikt">Modellöversikt&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="nyckelspecifikationer">Nyckelspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Leverantör&lt;/th>
+ &lt;th>Releasedatum&lt;/th>
+ &lt;th>Kontextfönster&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmarkprestanda">Benchmarkprestanda&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Vinnare&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prisjämförelse">Prisjämförelse&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Inmatning&lt;/th>
+ &lt;th>Utmatning&lt;/th>
+ &lt;th>Cacheläsning&lt;/th>
+ &lt;th>Cacheskrivning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per miljon tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/sv/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-mot-command-r">Llama 3.1 405B mot Command R+&lt;/h1>
+&lt;h2 id="modellöversikt">Modellöversikt&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="nyckelspecifikationer">Nyckelspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Leverantör&lt;/th>
+ &lt;th>Releasedatum&lt;/th>
+ &lt;th>Kontextfönster&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmarkprestanda">Benchmarkprestanda&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Vinnare&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prisjämförelse">Prisjämförelse&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Inmatning&lt;/th>
+ &lt;th>Utmatning&lt;/th>
+ &lt;th>Cacheläsning&lt;/th>
+ &lt;th>Cacheskrivning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per miljon tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/tr/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-karşı-command-r">Llama 3.1 405B karşı Command R+&lt;/h1>
+&lt;h2 id="model-genel-bakışı">Model Genel Bakışı&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="temel-özellikler">Temel Özellikler&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Satıcı&lt;/th>
+ &lt;th>Yayın Tarihi&lt;/th>
+ &lt;th>Bağlam Penceresi&lt;/th>
+ &lt;th>Lisans&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark-performansı">Benchmark Performansı&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Kazanan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fiyat-karşılaştırması">Fiyat Karşılaştırması&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Giriş&lt;/th>
+ &lt;th>Çıkış&lt;/th>
+ &lt;th>Önbellek Okuma&lt;/th>
+ &lt;th>Önbellek Yazma&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>milyon token başına — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/vi/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-đối-command-r">Llama 3.1 405B đối Command R+&lt;/h1>
+&lt;h2 id="tổng-quan-mô-hình">Tổng quan mô hình&lt;/h2>
+&lt;p>Llama 3.1 405B and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="thông-số-kỹ-thuật-chính">Thông số kỹ thuật chính&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Nhà cung cấp&lt;/th>
+ &lt;th>Ngày phát hành&lt;/th>
+ &lt;th>Cửa sổ ngữ cảnh&lt;/th>
+ &lt;th>Giấy phép&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="hiệu-suất-benchmark">Hiệu suất benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Người chiến thắng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="so-sánh-giá">So sánh giá&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Đầu vào&lt;/th>
+ &lt;th>Đầu ra&lt;/th>
+ &lt;th>Đọc bộ nhớ đệm&lt;/th>
+ &lt;th>Ghi bộ nhớ đệm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>mỗi triệu token — A / B&lt;/em>&lt;/p></description></item><item><title>Llama 3.1 405B vs Command R+：基准对比</title><link>https://bench-sv.ai-term-hub.com/zh/comparisons/llama-3-1-405b-vs-command-r-plus/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/comparisons/llama-3-1-405b-vs-command-r-plus/</guid><description>&lt;h1 id="llama-31-405b-对比-command-r">Llama 3.1 405B 对比 Command R+&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Llama 3.1 405B 与 Command R+ 均为 AI 模型市场的重要选项。本页对比两者在基准、定价与合规性上的差异。&lt;/p>
+&lt;h2 id="核心规格对比">核心规格对比&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>厂商&lt;/th>
+ &lt;th>发布日期&lt;/th>
+ &lt;th>上下文窗口&lt;/th>
+ &lt;th>许可证&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Meta / Cohere&lt;/td>
+ &lt;td>2024-07-23 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>Llama 3 Community License / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>Llama 3.1 405B&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>胜出&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价对比">定价对比&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>输入&lt;/th>
+ &lt;th>输出&lt;/th>
+ &lt;th>缓存读取&lt;/th>
+ &lt;th>缓存写入&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>每百万 token — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/ar/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-ضد-command-r">Command R ضد Command R+&lt;/h1>
+&lt;h2 id="نظرة-عامة-على-النموذج">نظرة عامة على النموذج&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="المواصفات-الرئيسية">المواصفات الرئيسية&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>المزود&lt;/th>
+ &lt;th>تاريخ الإصدار&lt;/th>
+ &lt;th>نافذة السياق&lt;/th>
+ &lt;th>الترخيص&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="أداء-المعايير">أداء المعايير&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>المعيار&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>الفائز&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="مقارنة-الأسعار">مقارنة الأسعار&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>الإدخال&lt;/th>
+ &lt;th>الإخراج&lt;/th>
+ &lt;th>قراءة الذاكرة المؤقتة&lt;/th>
+ &lt;th>كتابة الذاكرة المؤقتة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>لكل مليون رمز — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/de/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-gegen-command-r">Command R gegen Command R+&lt;/h1>
+&lt;h2 id="modellübersicht">Modellübersicht&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="hauptspezifikationen">Hauptspezifikationen&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Anbieter&lt;/th>
+ &lt;th>Veröffentlichungsdatum&lt;/th>
+ &lt;th>Kontextfenster&lt;/th>
+ &lt;th>Lizenz&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark-leistung">Benchmark-Leistung&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Gewinner&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="preisvergleich">Preisvergleich&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Eingabe&lt;/th>
+ &lt;th>Ausgabe&lt;/th>
+ &lt;th>Cache-Lesen&lt;/th>
+ &lt;th>Cache-Schreiben&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>pro Million Token — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/en/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-vs-command-r">Command R vs Command R+&lt;/h1>
+&lt;h2 id="model-overview">Model Overview&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="key-specifications">Key Specifications&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Vendor&lt;/th>
+ &lt;th>Release Date&lt;/th>
+ &lt;th>Context Window&lt;/th>
+ &lt;th>License&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark-performance">Benchmark Performance&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Winner&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="pricing-comparison">Pricing Comparison&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Input&lt;/th>
+ &lt;th>Output&lt;/th>
+ &lt;th>Cache Read&lt;/th>
+ &lt;th>Cache Write&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per million tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/es/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-contra-command-r">Command R contra Command R+&lt;/h1>
+&lt;h2 id="descripción-del-modelo">Descripción del modelo&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="especificaciones-clave">Especificaciones clave&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Proveedor&lt;/th>
+ &lt;th>Fecha de lanzamiento&lt;/th>
+ &lt;th>Ventana de contexto&lt;/th>
+ &lt;th>Licencia&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="rendimiento-en-benchmarks">Rendimiento en benchmarks&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Ganador&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="comparación-de-precios">Comparación de precios&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Entrada&lt;/th>
+ &lt;th>Salida&lt;/th>
+ &lt;th>Lectura caché&lt;/th>
+ &lt;th>Escritura caché&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>por millón de tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/fr/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-contre-command-r">Command R contre Command R+&lt;/h1>
+&lt;h2 id="aperçu-du-modèle">Aperçu du modèle&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="spécifications-clés">Spécifications clés&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Fournisseur&lt;/th>
+ &lt;th>Date de sortie&lt;/th>
+ &lt;th>Fenêtre de contexte&lt;/th>
+ &lt;th>Licence&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="performance-aux-benchmarks">Performance aux benchmarks&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Gagnant&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="comparaison-des-prix">Comparaison des prix&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Entrée&lt;/th>
+ &lt;th>Sortie&lt;/th>
+ &lt;th>Lecture cache&lt;/th>
+ &lt;th>Écriture cache&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>par million de jetons — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/he/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-נגד-command-r">Command R נגד Command R+&lt;/h1>
+&lt;h2 id="סקירת-מודל">סקירת מודל&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="מפרט-עיקרי">מפרט עיקרי&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ספק&lt;/th>
+ &lt;th>תאריך שחרור&lt;/th>
+ &lt;th>חלון הקשר&lt;/th>
+ &lt;th>רישיון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ביצועי-בנצמרק">ביצועי בנצ&amp;rsquo;מרק&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>בנצ&amp;rsquo;מרק&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>זוכה&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="השוואת-מחירים">השוואת מחירים&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>קלט&lt;/th>
+ &lt;th>פלט&lt;/th>
+ &lt;th>קריאת מטמון&lt;/th>
+ &lt;th>כתיבת מטמון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>לכל מיליון טוקנים — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/hi/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-बनम-command-r">Command R बनाम Command R+&lt;/h1>
+&lt;h2 id="मडल-अवलकन">मॉडल अवलोकन&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="मखय-वशषटतए">मुख्य विशिष्टताएं&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>विक्रेता&lt;/th>
+ &lt;th>रिलीज़ तिथि&lt;/th>
+ &lt;th>संदर्भ विंडो&lt;/th>
+ &lt;th>लाइसेंस&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="बचमरक-परदरशन">बेंचमार्क प्रदर्शन&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>बेंचमार्क&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>विजेता&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="मलय-तलन">मूल्य तुलना&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>इनपुट&lt;/th>
+ &lt;th>आउटपुट&lt;/th>
+ &lt;th>कैश पढ़ें&lt;/th>
+ &lt;th>कैश लिखें&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>प्रति मिलियन टोकन — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/id/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-vs-command-r">Command R vs Command R+&lt;/h1>
+&lt;h2 id="ikhtisar-model">Ikhtisar Model&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="spesifikasi-utama">Spesifikasi Utama&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Vendor&lt;/th>
+ &lt;th>Tanggal Rilis&lt;/th>
+ &lt;th>Jendela Konteks&lt;/th>
+ &lt;th>Lisensi&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="kinerja-benchmark">Kinerja Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Pemenang&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="perbandingan-harga">Perbandingan Harga&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Input&lt;/th>
+ &lt;th>Output&lt;/th>
+ &lt;th>Baca Cache&lt;/th>
+ &lt;th>Tulis Cache&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per juta token — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/it/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-contro-command-r">Command R contro Command R+&lt;/h1>
+&lt;h2 id="panoramica-del-modello">Panoramica del modello&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="specifiche-chiave">Specifiche chiave&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Fornitore&lt;/th>
+ &lt;th>Data di rilascio&lt;/th>
+ &lt;th>Finestra di contesto&lt;/th>
+ &lt;th>Licenza&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prestazioni-benchmark">Prestazioni benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Vincitore&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="confronto-prezzi">Confronto prezzi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Input&lt;/th>
+ &lt;th>Output&lt;/th>
+ &lt;th>Lettura cache&lt;/th>
+ &lt;th>Scrittura cache&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per milione di token — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/ja/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-対-command-r">Command R 対 Command R+&lt;/h1>
+&lt;h2 id="モデル概要">モデル概要&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="主要仕様">主要仕様&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ベンダー&lt;/th>
+ &lt;th>リリース日&lt;/th>
+ &lt;th>コンテキストウィンドウ&lt;/th>
+ &lt;th>ライセンス&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ベンチマークパフォーマンス">ベンチマークパフォーマンス&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>ベンチマーク&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>勝者&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="料金比較">料金比較&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>入力&lt;/th>
+ &lt;th>出力&lt;/th>
+ &lt;th>キャッシュ読み取り&lt;/th>
+ &lt;th>キャッシュ書き込み&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>100万トークンあたり — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/ko/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-대-command-r">Command R 대 Command R+&lt;/h1>
+&lt;h2 id="모델-개요">모델 개요&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="핵심-사양">핵심 사양&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>공급업체&lt;/th>
+ &lt;th>출시일&lt;/th>
+ &lt;th>컨텍스트 창&lt;/th>
+ &lt;th>라이선스&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="벤치마크-성능">벤치마크 성능&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>벤치마크&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>승자&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="가격-비교">가격 비교&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>입력&lt;/th>
+ &lt;th>출력&lt;/th>
+ &lt;th>캐시 읽기&lt;/th>
+ &lt;th>캐시 쓰기&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>백만 토큰당 — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/nl/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-tegen-command-r">Command R tegen Command R+&lt;/h1>
+&lt;h2 id="modeloverzicht">Modeloverzicht&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="belangrijkste-specificaties">Belangrijkste specificaties&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Leverancier&lt;/th>
+ &lt;th>Releasedatum&lt;/th>
+ &lt;th>Contextvenster&lt;/th>
+ &lt;th>Licentie&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmarkprestaties">Benchmarkprestaties&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Winnaar&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prijsvergelijking">Prijsvergelijking&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Invoer&lt;/th>
+ &lt;th>Uitvoer&lt;/th>
+ &lt;th>Cache-lezen&lt;/th>
+ &lt;th>Cache-schrijven&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per miljoen tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/pl/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-kontra-command-r">Command R kontra Command R+&lt;/h1>
+&lt;h2 id="przegląd-modelu">Przegląd modelu&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="kluczowe-specyfikacje">Kluczowe specyfikacje&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Dostawca&lt;/th>
+ &lt;th>Data wydania&lt;/th>
+ &lt;th>Okno kontekstowe&lt;/th>
+ &lt;th>Licencja&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="wydajność-benchmarków">Wydajność benchmarków&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Zwycięzca&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="porównanie-cen">Porównanie cen&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Wejście&lt;/th>
+ &lt;th>Wyjście&lt;/th>
+ &lt;th>Odczyt pamięci podręcznej&lt;/th>
+ &lt;th>Zapis pamięci podręcznej&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>za milion tokenów — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/pt/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-contra-command-r">Command R contra Command R+&lt;/h1>
+&lt;h2 id="visão-geral-do-modelo">Visão geral do modelo&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="especificações-principais">Especificações principais&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Fornecedor&lt;/th>
+ &lt;th>Data de lançamento&lt;/th>
+ &lt;th>Janela de contexto&lt;/th>
+ &lt;th>Licença&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="desempenho-em-benchmarks">Desempenho em benchmarks&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Vencedor&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="comparação-de-preços">Comparação de preços&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Entrada&lt;/th>
+ &lt;th>Saída&lt;/th>
+ &lt;th>Leitura de cache&lt;/th>
+ &lt;th>Escrita de cache&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>por milhão de tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/ru/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-против-command-r">Command R против Command R+&lt;/h1>
+&lt;h2 id="обзор-модели">Обзор модели&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="ключевые-характеристики">Ключевые характеристики&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Поставщик&lt;/th>
+ &lt;th>Дата выпуска&lt;/th>
+ &lt;th>Окно контекста&lt;/th>
+ &lt;th>Лицензия&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="производительность">Производительность&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Бенчмарк&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Победитель&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="сравнение-цен">Сравнение цен&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Вход&lt;/th>
+ &lt;th>Выход&lt;/th>
+ &lt;th>Чтение кэша&lt;/th>
+ &lt;th>Запись кэша&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>за миллион токенов — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-mot-command-r">Command R mot Command R+&lt;/h1>
+&lt;h2 id="modellöversikt">Modellöversikt&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="nyckelspecifikationer">Nyckelspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Leverantör&lt;/th>
+ &lt;th>Releasedatum&lt;/th>
+ &lt;th>Kontextfönster&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmarkprestanda">Benchmarkprestanda&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Vinnare&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prisjämförelse">Prisjämförelse&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Inmatning&lt;/th>
+ &lt;th>Utmatning&lt;/th>
+ &lt;th>Cacheläsning&lt;/th>
+ &lt;th>Cacheskrivning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per miljon tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/sv/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-mot-command-r">Command R mot Command R+&lt;/h1>
+&lt;h2 id="modellöversikt">Modellöversikt&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="nyckelspecifikationer">Nyckelspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Leverantör&lt;/th>
+ &lt;th>Releasedatum&lt;/th>
+ &lt;th>Kontextfönster&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmarkprestanda">Benchmarkprestanda&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Vinnare&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="prisjämförelse">Prisjämförelse&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Inmatning&lt;/th>
+ &lt;th>Utmatning&lt;/th>
+ &lt;th>Cacheläsning&lt;/th>
+ &lt;th>Cacheskrivning&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>per miljon tokens — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/tr/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-karşı-command-r">Command R karşı Command R+&lt;/h1>
+&lt;h2 id="model-genel-bakışı">Model Genel Bakışı&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="temel-özellikler">Temel Özellikler&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Satıcı&lt;/th>
+ &lt;th>Yayın Tarihi&lt;/th>
+ &lt;th>Bağlam Penceresi&lt;/th>
+ &lt;th>Lisans&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark-performansı">Benchmark Performansı&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Kazanan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fiyat-karşılaştırması">Fiyat Karşılaştırması&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Giriş&lt;/th>
+ &lt;th>Çıkış&lt;/th>
+ &lt;th>Önbellek Okuma&lt;/th>
+ &lt;th>Önbellek Yazma&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>milyon token başına — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+: Benchmark Comparison</title><link>https://bench-sv.ai-term-hub.com/vi/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-đối-command-r">Command R đối Command R+&lt;/h1>
+&lt;h2 id="tổng-quan-mô-hình">Tổng quan mô hình&lt;/h2>
+&lt;p>Command R and Command R+ are both notable options in the AI model market. This page compares their benchmarks, pricing, and compliance.&lt;/p>
+&lt;h2 id="thông-số-kỹ-thuật-chính">Thông số kỹ thuật chính&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Nhà cung cấp&lt;/th>
+ &lt;th>Ngày phát hành&lt;/th>
+ &lt;th>Cửa sổ ngữ cảnh&lt;/th>
+ &lt;th>Giấy phép&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="hiệu-suất-benchmark">Hiệu suất benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Benchmark&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>Người chiến thắng&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="so-sánh-giá">So sánh giá&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Đầu vào&lt;/th>
+ &lt;th>Đầu ra&lt;/th>
+ &lt;th>Đọc bộ nhớ đệm&lt;/th>
+ &lt;th>Ghi bộ nhớ đệm&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>mỗi triệu token — A / B&lt;/em>&lt;/p></description></item><item><title>Command R vs Command R+：基准对比</title><link>https://bench-sv.ai-term-hub.com/zh/comparisons/command-r-vs-command-r-plus/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/comparisons/command-r-vs-command-r-plus/</guid><description>&lt;h1 id="command-r-对比-command-r">Command R 对比 Command R+&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Command R 与 Command R+ 均为 AI 模型市场的重要选项。本页对比两者在基准、定价与合规性上的差异。&lt;/p>
+&lt;h2 id="核心规格对比">核心规格对比&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>厂商&lt;/th>
+ &lt;th>发布日期&lt;/th>
+ &lt;th>上下文窗口&lt;/th>
+ &lt;th>许可证&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Cohere / Cohere&lt;/td>
+ &lt;td>2024-03-11 / 2024-04-04&lt;/td>
+ &lt;td>128K / 128K&lt;/td>
+ &lt;td>CC-BY-NC-4.0 / CC-BY-NC-4.0&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>Command R&lt;/th>
+ &lt;th>Command R+&lt;/th>
+ &lt;th>胜出&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ARC&lt;/td>
+ &lt;td>93.9&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH (BIG-Bench Hard)&lt;/td>
+ &lt;td>78.4&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GPQA&lt;/td>
+ &lt;td>44.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K (Grade School Math 8K)&lt;/td>
+ &lt;td>86.9&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>75.8&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>IFEval&lt;/td>
+ &lt;td>74.1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>43.9&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MMLU (Massive Multitask Language Understanding)&lt;/td>
+ &lt;td>79.3&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MUSR&lt;/td>
+ &lt;td>57.0&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>WinoGrande&lt;/td>
+ &lt;td>84.8&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;td>A&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价对比">定价对比&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>输入&lt;/th>
+ &lt;th>输出&lt;/th>
+ &lt;th>缓存读取&lt;/th>
+ &lt;th>缓存写入&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;td>— / —&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>每百万 token — A / B&lt;/em>&lt;/p></description></item></channel></rss>

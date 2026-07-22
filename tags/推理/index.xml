@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>推理 on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/tags/%E6%8E%A8%E7%90%86/</link><description>Recent content in 推理 on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bench-sv.ai-term-hub.com/tags/%E6%8E%A8%E7%90%86/index.xml" rel="self" type="application/rss+xml"/><item><title>Llama 3.1 405B：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/llama-3-1-405b/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/llama-3-1-405b/</guid><description>&lt;h1 id="llama-31-405b">Llama 3.1 405B&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Llama 3.1 405B 是 Meta 于 2024 年 7 月 23 日发布的开源权重旗舰模型。拥有 4050 亿参数与 128K 上下文窗口，是迄今公开可用的最大基础模型。Meta 公布的数据显示，Llama 3.1 405B 在 MMLU、HumanEval、MATH 等基准上已逼近 GPT-4o、Claude 3.5 Sonnet 等闭源旗舰，让对模型控制权有强需求（合规、隐私、定制）的组织得以在自己的基础设施上部署接近前沿水平的模型。权重以 Llama 3 Community License 发布，月活低于 7 亿的用户可商用。模型可通过 AWS、Azure、Google Cloud 等主流云厂商调用，也可在 8× H100 GPU 集群上自托管。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>Meta&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>3.1-405b&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-07-23&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>128,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>Llama 3 Community License&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://llama.meta.com/docs/">https://llama.meta.com/docs/&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入（Together AI 托管）&lt;/td>
+ &lt;td>$5.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出（Together AI 托管）&lt;/td>
+ &lt;td>$15.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://www.together.ai/pricing （截至 2024-08-01）。自托管成本视 GPU 基础设施而定。&lt;/p></description></item></channel></rss>

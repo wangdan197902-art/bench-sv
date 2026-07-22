@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>旗舰 on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/tags/%E6%97%97%E8%88%B0/</link><description>Recent content in 旗舰 on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bench-sv.ai-term-hub.com/tags/%E6%97%97%E8%88%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>GPT-4o：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/gpt-4o/</link><pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/gpt-4o/</guid><description>&lt;h1 id="gpt-4o">GPT-4o&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>GPT-4o 是 OpenAI 于 2024 年 5 月 13 日发布的旗舰多模态模型。&amp;ldquo;o&amp;rdquo; 代表 omni（全能），反映出该模型在单一神经网络中原生支持文本、图像、音频三种模态的输入与输出。GPT-4o 拥有 128K 上下文窗口，并针对低延迟进行了优化，能够支撑实时语音对话、视觉任务以及高吞吐文本生成。在学术基准上，GPT-4o 与 GPT-4 Turbo 持平或更优，同时价格降低 50%、速度提升 2 倍。该模型驱动 ChatGPT 的语音模式、视觉功能以及 OpenAI API 的旗舰层级，是当前需要多模态理解的生产级通用工作流的默认选择。GPT-4o 也是 OpenAI 首个使用跨模态统一分词器训练的模型，显著提升了非英语语言的质量。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>OpenAI&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>4o&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-05-13&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>128,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本、图像、音频&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本、音频&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>专有&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://platform.openai.com/docs/models/gpt-4o">https://platform.openai.com/docs/models/gpt-4o&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>88.7&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>90.2&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>95.8&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>76.6&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入&lt;/td>
+ &lt;td>$2.50&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出&lt;/td>
+ &lt;td>$10.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$1.25&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$2.50&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://openai.com/api/pricing/ （截至 2024-08-01）。&lt;/p></description></item><item><title>Claude 3.5 Sonnet：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/claude-3-5-sonnet/</link><pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/claude-3-5-sonnet/</guid><description>&lt;h1 id="claude-35-sonnet">Claude 3.5 Sonnet&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Claude 3.5 Sonnet 是 Anthropic 于 2024 年 6 月 20 日发布的 2024 年中旗舰模型。它在编程、视觉推理与长文档理解方面显著提升，同时保留 200K 上下文窗口。尽管在 Claude 3.5 家族中定位为&amp;quot;中端&amp;quot;，Sonnet 在几乎全部学术基准上超越了上一代 Claude 3 Opus，并以两倍速度运行。Anthropic 强调 Constitutional AI 对齐、行为可预测性，以及对复杂工具调用与 Agent 工作流的强支持，使其在企业级生产部署中备受青睐。Claude 3.5 Sonnet 也是首个随 Claude.ai 网页端推出 Artifacts 功能的模型，可在对话中交互式生成代码与内容。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>Anthropic&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>3.5-sonnet&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-06-20&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>200,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本、图像&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>专有&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://docs.anthropic.com/claude/docs">https://docs.anthropic.com/claude/docs&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>88.7&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>92.0&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>96.4&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>71.1&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>84.5&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入&lt;/td>
+ &lt;td>$3.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出&lt;/td>
+ &lt;td>$15.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.30&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$3.75&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://www.anthropic.com/pricing （截至 2024-08-01）。&lt;/p></description></item><item><title>Gemini 1.5 Pro：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/gemini-1-5-pro/</link><pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/gemini-1-5-pro/</guid><description>&lt;h1 id="gemini-15-pro">Gemini 1.5 Pro&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Gemini 1.5 Pro 是 Google DeepMind 于 2024 年 2 月 15 日发布的旗舰多模态模型。其最大亮点是行业领先的 200 万 token 上下文窗口，可在单次调用中完成整个代码库推理、多小时视频理解与百万字文档分析。模型原生接受文本、图像、音频、视频四种输入，是唯一将视频作为一等模态处理的旗舰。Gemini 1.5 Pro 基于 MoE 架构，在多数基准上达到接近头部闭源旗舰的水平，价格约为 GPT-4o 的一半。它驱动 Gemini Advanced 消费产品、Google Cloud Vertex AI 以及 Google Workspace AI 功能。其长上下文能力对处理大型法律合同、财务报告或研究语料库的企业尤为关键。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>Google DeepMind&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>1.5-pro&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-02-15&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>2,000,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本、图像、音频、视频&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>专有&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://ai.google.dev/gemini-api/docs">https://ai.google.dev/gemini-api/docs&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>85.9&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>71.9&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>91.7&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>58.5&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>84.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入&lt;/td>
+ &lt;td>$1.25&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出&lt;/td>
+ &lt;td>$5.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.3125&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$1.25&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://ai.google.dev/pricing （截至 2024-08-01）。&lt;/p></description></item><item><title>Mistral Large 2：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/mistral-large-2/</link><pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/mistral-large-2/</guid><description>&lt;h1 id="mistral-large-2">Mistral Large 2&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Mistral Large 2 是 Mistral AI 于 2024 年 7 月 24 日发布的旗舰模型。拥有 123B 参数与 128K 上下文窗口，定位与 GPT-4o、Claude 3.5 Sonnet 在代码、数学与多语言推理上同台竞争。Mistral Large 2 的最大亮点是其欧洲主权属性：由总部位于巴黎的 Mistral AI 研发，支持欧盟数据驻留，符合 GDPR 与 ISO 27001，是欧洲企业及对数据主权要求严苛的公共部门的首选。模型原生支持数十种语言，HumanEval pass@1 达 92.0，跻身顶级代码模型之列。Mistral Large 2 通过 Mistral API、La Plateforme、Azure AI 与 Google Cloud Vertex AI 提供。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>Mistral AI&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>large-2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-07-24&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>128,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>Mistral Research License&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://docs.mistral.ai/">https://docs.mistral.ai/&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>84.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>92.0&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>93.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>71.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>81.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入&lt;/td>
+ &lt;td>$2.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出&lt;/td>
+ &lt;td>$6.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://mistral.ai/technology/ （截至 2024-08-01）。&lt;/p></description></item><item><title>Grok-2：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/grok-2/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/grok-2/</guid><description>&lt;h1 id="grok-2">Grok-2&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Grok-2 是 xAI 于 2024 年 8 月 13 日发布的旗舰模型。模型最大亮点是与 X（原 Twitter）平台的紧密集成，可对实时事件与热门话题保持感知——这是其他旗舰模型无法匹配的能力。Grok-2 接受文本与图像输入，支持 131K 上下文窗口，在学术基准上与 GPT-4o、Claude 3.5 Sonnet 同台竞争。MMLU 得分 87.5，接近 GPT-4o（88.7）与 Claude 3.5 Sonnet（88.7）。模型可通过 X 平台的 Grok 聊天机器人（Premium 订阅用户）与 xAI API 调用。Grok-2 还以相对宽松的内容策略著称，xAI 将其作为面向希望减少拒绝率用户的特点进行宣传。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>xAI&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-08-13&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>131,072 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本、图像&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>专有&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://docs.x.ai/">https://docs.x.ai/&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.5&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>88.4&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>93.2&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>76.8&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>84.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入&lt;/td>
+ &lt;td>$2.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出&lt;/td>
+ &lt;td>$10.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://x.ai/api （截至 2024-08-13）。&lt;/p></description></item></channel></rss>

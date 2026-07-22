@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Knowledge on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/tags/knowledge/</link><description>Recent content in Knowledge on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bench-sv.ai-term-hub.com/tags/knowledge/index.xml" rel="self" type="application/rss+xml"/><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/ar/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="الوصف">الوصف&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="المواصفات-الأساسية">المواصفات الأساسية&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>الفئة&lt;/th>
+ &lt;th>الترخيص&lt;/th>
+ &lt;th>آخر تحديث&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="المعيار">المعيار&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>الوحدة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="المصادر">المصادر&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="الرابط-الرسمي">الرابط الرسمي&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/de/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="beschreibung">Beschreibung&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="kernspezifikationen">Kernspezifikationen&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategorie&lt;/th>
+ &lt;th>Lizenz&lt;/th>
+ &lt;th>Zuletzt aktualisiert&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Einheit&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="quellen">Quellen&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="offizielle-url">Offizielle URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/en/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="description">Description&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="core-specifications">Core Specifications&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Category&lt;/th>
+ &lt;th>License&lt;/th>
+ &lt;th>Last Updated&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unit&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="official-url">Official URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/es/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="descripción">Descripción&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="especificaciones-principales">Especificaciones principales&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Categoría&lt;/th>
+ &lt;th>Licencia&lt;/th>
+ &lt;th>Última actualización&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unidad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fuentes">Fuentes&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-oficial">URL oficial&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/fr/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="description">Description&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="spécifications-principales">Spécifications principales&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Catégorie&lt;/th>
+ &lt;th>Licence&lt;/th>
+ &lt;th>Dernière mise à jour&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unité&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-officielle">URL officielle&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/he/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="תיאור">תיאור&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="מפרט-ליבה">מפרט ליבה&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>קטגוריה&lt;/th>
+ &lt;th>רישיון&lt;/th>
+ &lt;th>עדכון אחרון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="בנצמרק">בנצ&amp;rsquo;מרק&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>יחידה&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="מקורות">מקורות&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-רשמי">URL רשמי&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/hi/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="ववरण">विवरण&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="मखय-वशषटतए">मुख्य विशिष्टताएं&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>श्रेणी&lt;/th>
+ &lt;th>लाइसेंस&lt;/th>
+ &lt;th>अंतिम अपडेट&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="बचमरक">बेंचमार्क&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>इकाई&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="सरत">स्रोत&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="आधकरक-url">आधिकारिक URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/id/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="deskripsi">Deskripsi&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="spesifikasi-inti">Spesifikasi Inti&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Lisensi&lt;/th>
+ &lt;th>Terakhir Diperbarui&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Satuan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="sumber">Sumber&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-resmi">URL Resmi&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/it/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="descrizione">Descrizione&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="specifiche-principali">Specifiche principali&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Categoria&lt;/th>
+ &lt;th>Licenza&lt;/th>
+ &lt;th>Ultimo aggiornamento&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unità&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fonti">Fonti&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-ufficiale">URL ufficiale&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/ja/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="説明">説明&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="コア仕様">コア仕様&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>カテゴリ&lt;/th>
+ &lt;th>ライセンス&lt;/th>
+ &lt;th>最終更新&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ベンチマーク">ベンチマーク&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>単位&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ソース">ソース&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="公式url">公式URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/ko/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="설명">설명&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="핵심-사양">핵심 사양&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>카테고리&lt;/th>
+ &lt;th>라이선스&lt;/th>
+ &lt;th>최종 업데이트&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="벤치마크">벤치마크&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>단위&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="소스">소스&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="공식-url">공식 URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/nl/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="beschrijving">Beschrijving&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="kernspecificaties">Kernspecificaties&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Categorie&lt;/th>
+ &lt;th>Licentie&lt;/th>
+ &lt;th>Laatst bijgewerkt&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Eenheid&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="bronnen">Bronnen&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiële-url">Officiële URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/pl/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="opis">Opis&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="podstawowe-specyfikacje">Podstawowe specyfikacje&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategoria&lt;/th>
+ &lt;th>Licencja&lt;/th>
+ &lt;th>Ostatnia aktualizacja&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Jednostka&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="źródła">Źródła&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="oficjalny-url">Oficjalny URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/pt/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="descrição">Descrição&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="especificações-principais">Especificações principais&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Categoria&lt;/th>
+ &lt;th>Licença&lt;/th>
+ &lt;th>Última atualização&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unidade&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fontes">Fontes&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-oficial">URL oficial&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/ru/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="описание">Описание&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="основные-характеристики">Основные характеристики&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Категория&lt;/th>
+ &lt;th>Лицензия&lt;/th>
+ &lt;th>Последнее обновление&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="бенчмарк">Бенчмарк&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Единица&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="источники">Источники&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="официальный-url">Официальный URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/sv/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/tr/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="açıklama">Açıklama&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="temel-özellikler">Temel Özellikler&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Lisans&lt;/th>
+ &lt;th>Son Güncelleme&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Birim&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="kaynaklar">Kaynaklar&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="resmi-url">Resmi URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/vi/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="mô-tả">Mô tả&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="thông-số-kỹ-thuật-cốt-lõi">Thông số kỹ thuật cốt lõi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Danh mục&lt;/th>
+ &lt;th>Giấy phép&lt;/th>
+ &lt;th>Cập nhật lần cuối&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Đơn vị&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="nguồn">Nguồn&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-chính-thức">URL chính thức&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA：基准测试详解</title><link>https://bench-sv.ai-term-hub.com/zh/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="描述">描述&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>分类&lt;/th>
+ &lt;th>许可证&lt;/th>
+ &lt;th>最后更新&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准">基准&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>单位&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="数据来源">数据来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="官方地址">官方地址&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/ar/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ar/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="الوصف">الوصف&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="المواصفات-الأساسية">المواصفات الأساسية&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>الفئة&lt;/th>
+ &lt;th>الترخيص&lt;/th>
+ &lt;th>آخر تحديث&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="المعيار">المعيار&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>الوحدة&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="المصادر">المصادر&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="الرابط-الرسمي">الرابط الرسمي&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/de/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/de/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="beschreibung">Beschreibung&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="kernspezifikationen">Kernspezifikationen&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategorie&lt;/th>
+ &lt;th>Lizenz&lt;/th>
+ &lt;th>Zuletzt aktualisiert&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Einheit&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="quellen">Quellen&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="offizielle-url">Offizielle URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/en/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/en/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="description">Description&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="core-specifications">Core Specifications&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Category&lt;/th>
+ &lt;th>License&lt;/th>
+ &lt;th>Last Updated&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unit&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="official-url">Official URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/es/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/es/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="descripción">Descripción&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="especificaciones-principales">Especificaciones principales&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Categoría&lt;/th>
+ &lt;th>Licencia&lt;/th>
+ &lt;th>Última actualización&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unidad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fuentes">Fuentes&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-oficial">URL oficial&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/fr/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/fr/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="description">Description&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="spécifications-principales">Spécifications principales&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Catégorie&lt;/th>
+ &lt;th>Licence&lt;/th>
+ &lt;th>Dernière mise à jour&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unité&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="sources">Sources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-officielle">URL officielle&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/he/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/he/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="תיאור">תיאור&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="מפרט-ליבה">מפרט ליבה&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>קטגוריה&lt;/th>
+ &lt;th>רישיון&lt;/th>
+ &lt;th>עדכון אחרון&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="בנצמרק">בנצ&amp;rsquo;מרק&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>יחידה&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="מקורות">מקורות&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-רשמי">URL רשמי&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/hi/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/hi/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="ववरण">विवरण&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="मखय-वशषटतए">मुख्य विशिष्टताएं&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>श्रेणी&lt;/th>
+ &lt;th>लाइसेंस&lt;/th>
+ &lt;th>अंतिम अपडेट&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="बचमरक">बेंचमार्क&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>इकाई&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="सरत">स्रोत&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="आधकरक-url">आधिकारिक URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/id/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/id/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="deskripsi">Deskripsi&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="spesifikasi-inti">Spesifikasi Inti&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Lisensi&lt;/th>
+ &lt;th>Terakhir Diperbarui&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Satuan&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="sumber">Sumber&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-resmi">URL Resmi&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/it/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/it/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="descrizione">Descrizione&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="specifiche-principali">Specifiche principali&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Categoria&lt;/th>
+ &lt;th>Licenza&lt;/th>
+ &lt;th>Ultimo aggiornamento&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unità&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fonti">Fonti&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-ufficiale">URL ufficiale&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/ja/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ja/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="説明">説明&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="コア仕様">コア仕様&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>カテゴリ&lt;/th>
+ &lt;th>ライセンス&lt;/th>
+ &lt;th>最終更新&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ベンチマーク">ベンチマーク&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>単位&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ソース">ソース&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="公式url">公式URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/ko/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ko/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="설명">설명&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="핵심-사양">핵심 사양&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>카테고리&lt;/th>
+ &lt;th>라이선스&lt;/th>
+ &lt;th>최종 업데이트&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="벤치마크">벤치마크&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>단위&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="소스">소스&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="공식-url">공식 URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/nl/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/nl/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="beschrijving">Beschrijving&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="kernspecificaties">Kernspecificaties&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Categorie&lt;/th>
+ &lt;th>Licentie&lt;/th>
+ &lt;th>Laatst bijgewerkt&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Eenheid&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="bronnen">Bronnen&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiële-url">Officiële URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/pl/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pl/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="opis">Opis&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="podstawowe-specyfikacje">Podstawowe specyfikacje&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategoria&lt;/th>
+ &lt;th>Licencja&lt;/th>
+ &lt;th>Ostatnia aktualizacja&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Jednostka&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="źródła">Źródła&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="oficjalny-url">Oficjalny URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/pt/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/pt/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="descrição">Descrição&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="especificações-principais">Especificações principais&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Categoria&lt;/th>
+ &lt;th>Licença&lt;/th>
+ &lt;th>Última atualização&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Unidade&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="fontes">Fontes&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-oficial">URL oficial&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/ru/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/ru/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="описание">Описание&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="основные-характеристики">Основные характеристики&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Категория&lt;/th>
+ &lt;th>Лицензия&lt;/th>
+ &lt;th>Последнее обновление&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="бенчмарк">Бенчмарк&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Единица&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="источники">Источники&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="официальный-url">Официальный URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/sv/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/sv/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/tr/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/tr/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="açıklama">Açıklama&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="temel-özellikler">Temel Özellikler&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Lisans&lt;/th>
+ &lt;th>Son Güncelleme&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Birim&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="kaynaklar">Kaynaklar&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="resmi-url">Resmi URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/vi/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/vi/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="mô-tả">Mô tả&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="thông-số-kỹ-thuật-cốt-lõi">Thông số kỹ thuật cốt lõi&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Danh mục&lt;/th>
+ &lt;th>Giấy phép&lt;/th>
+ &lt;th>Cập nhật lần cuối&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Đơn vị&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="nguồn">Nguồn&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="url-chính-thức">URL chính thức&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding)：基准测试详解</title><link>https://bench-sv.ai-term-hub.com/zh/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="描述">描述&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>分类&lt;/th>
+ &lt;th>许可证&lt;/th>
+ &lt;th>最后更新&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准">基准&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>单位&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="数据来源">数据来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="官方地址">官方地址&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

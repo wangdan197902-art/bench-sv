@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>开源权重 on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/tags/%E5%BC%80%E6%BA%90%E6%9D%83%E9%87%8D/</link><description>Recent content in 开源权重 on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bench-sv.ai-term-hub.com/tags/%E5%BC%80%E6%BA%90%E6%9D%83%E9%87%8D/index.xml" rel="self" type="application/rss+xml"/><item><title>Llama 3.1 405B：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/llama-3-1-405b/</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/llama-3-1-405b/</guid><description>&lt;h1 id="llama-31-405b">Llama 3.1 405B&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Llama 3.1 405B 是 Meta 于 2024 年 7 月 23 日发布的开源权重旗舰模型。拥有 4050 亿参数与 128K 上下文窗口，是迄今公开可用的最大基础模型。Meta 公布的数据显示，Llama 3.1 405B 在 MMLU、HumanEval、MATH 等基准上已逼近 GPT-4o、Claude 3.5 Sonnet 等闭源旗舰，让对模型控制权有强需求（合规、隐私、定制）的组织得以在自己的基础设施上部署接近前沿水平的模型。权重以 Llama 3 Community License 发布，月活低于 7 亿的用户可商用。模型可通过 AWS、Azure、Google Cloud 等主流云厂商调用，也可在 8× H100 GPU 集群上自托管。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>Meta&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>3.1-405b&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-07-23&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>128,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>Llama 3 Community License&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://llama.meta.com/docs/">https://llama.meta.com/docs/&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>88.6&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>89.0&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.2&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>73.8&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>82.9&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入（Together AI 托管）&lt;/td>
+ &lt;td>$5.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出（Together AI 托管）&lt;/td>
+ &lt;td>$15.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://www.together.ai/pricing （截至 2024-08-01）。自托管成本视 GPU 基础设施而定。&lt;/p></description></item><item><title>Mixtral 8x22B：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/mixtral-8x22b/</link><pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/mixtral-8x22b/</guid><description>&lt;h1 id="mixtral-8x22b">Mixtral 8x22B&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Mixtral 8x22B 是 Mistral AI 于 2024 年 4 月 10 日发布的开源权重稀疏混合专家（MoE）模型。架构由 8 个 22B 专家网络组成，总参数 141B、每 token 仅激活约 39B，从而以约三分之一的推理成本达到与 70B 级稠密模型相当的性能。模型支持 64K 上下文窗口，并在英语、法语、意大利语、德语、西班牙语五种语言上具备较强多语言能力。Mixtral 8x22B 以 Apache 2.0 协议发布，是少数可在无任何限制下商用的前沿级模型，允许微调、再分发与集成至专有产品。该模型在 Together AI、Fireworks AI 等推理服务商上广泛部署，亦可自托管于消费级可达的 GPU 集群。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>Mistral AI&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>8x22b&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-04-10&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>64,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>Apache 2.0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://docs.mistral.ai/">https://docs.mistral.ai/&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>77.8&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>45.2&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>78.6&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>46.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>74.5&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入（Mistral 托管）&lt;/td>
+ &lt;td>$1.20&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出（Mistral 托管）&lt;/td>
+ &lt;td>$1.20&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://mistral.ai/technology/ （截至 2024-08-01）。Apache 2.0 许可证允许无限制自托管。&lt;/p></description></item><item><title>Qwen2.5 72B：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/qwen2-5-72b/</link><pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/qwen2-5-72b/</guid><description>&lt;h1 id="qwen25-72b">Qwen2.5 72B&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Qwen2.5 72B 是阿里巴巴于 2024 年 9 月 19 日发布的开源权重旗舰模型，是 Qwen2.5 系列的一员。模型在中文理解上处于领先地位，覆盖 29+ 种语言，拥有 131K 上下文窗口。在学术基准上，Qwen2.5 72B 在 MMLU（86.1）上与 Llama 3.1 70B 持平或略胜，并在数学（83.1 vs 71.8）和代码（HumanEval 86.6 pass@1）上显著领先。模型以 Qwen License 发布，对商用几乎无限制（仅有少量使用约束），已成为中文市场部署、中英双语 RAG 系统、以及涉及中文上下文的代码生成管道的首选。模型原生支持结构化输出、工具调用与长文档摘要。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>阿里巴巴&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>2.5-72b&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-09-19&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>131,072 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>Qwen License&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://qwenlm.github.io/">https://qwenlm.github.io/&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>86.1&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>86.6&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>88.4&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>83.1&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>82.4&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入（阿里云）&lt;/td>
+ &lt;td>$0.50&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出（阿里云）&lt;/td>
+ &lt;td>$0.80&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://help.aliyun.com/zh/model-studio/getting-started/models （截至 2024-09-19）。开源权重亦允许自托管。&lt;/p></description></item><item><title>DeepSeek V3：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/deepseek-v3/</link><pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/deepseek-v3/</guid><description>&lt;h1 id="deepseek-v3">DeepSeek V3&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>DeepSeek V3 是 DeepSeek 于 2024 年 12 月 26 日发布的开源权重混合专家旗舰模型。架构总参数 671B、每 token 激活 37B，训练数据达 14.8 万亿 token。DeepSeek V3 以极低的价格提供前沿级性能——API 定价 $0.27/$1.10 每百万 token，约为同级闭源旗舰的十分之一。模型在 MMLU（88.5 vs 88.7）与 BBH（84.9 vs 83.1）上与 GPT-4o 接近或反超，支持 64K 上下文窗口。模型以较为宽松的 DeepSeek License 发布，迅速成为成本敏感型生产部署的首选，尤其在中文与中英双语场景中。模型还引入了多头潜在注意力（MLA），显著提升长上下文推理效率。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>DeepSeek&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>v3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-12-26&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>64,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>DeepSeek License&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://api-docs.deepseek.com/">https://api-docs.deepseek.com/&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>88.5&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>82.6&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>89.3&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>61.6&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>84.9&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入&lt;/td>
+ &lt;td>$0.27&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出&lt;/td>
+ &lt;td>$1.10&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.07&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.27&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://api-docs.deepseek.com/quick_start/pricing （截至 2024-12-26）。DeepSeek License 亦允许自托管。&lt;/p></description></item></channel></rss>

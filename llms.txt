@@ -1,0 +1,47 @@
+# AI Benchmark Hub
+
+> Independent, transparent AI model benchmark library covering GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, Llama 3.1, and other major LLMs. Pricing, performance, and compliance data sourced from public references.
+
+## Sections
+
+- /en/models/ — All AI model pages with pricing, benchmarks, and compliance data
+- /zh/models/ — Chinese version of model pages
+- /en/comparisons/ — Head-to-head model comparisons with FAQ and editorial verdicts
+- /zh/comparisons/ — Chinese version of comparisons
+- /en/benchmarks/ — Benchmark test descriptions (MMLU, HumanEval, GSM8K, MATH, BBH)
+- /zh/benchmarks/ — Chinese version of benchmarks
+
+## Top Models
+
+- GPT-4o: OpenAI flagship, multimodal (text/image/audio), 128K context, $2.50/$10 per Mtok — /en/models/gpt-4o/
+- Claude 3.5 Sonnet: Anthropic flagship, 200K context, $3.00/$15 per Mtok — /en/models/claude-3-5-sonnet/
+- Gemini 1.5 Pro: Google flagship, 2M context, $1.25/$5 per Mtok — /en/models/gemini-1-5-pro/
+- Llama 3.1 405B: Meta open-weights, self-hostable — /en/models/llama-3-1-405b/
+- DeepSeek V3: DeepSeek open-weights, MoE, $0.27/$1.10 per Mtok — /en/models/deepseek-v3/
+
+## Top Comparisons
+
+- GPT-4o vs Claude 3.5 Sonnet — /en/comparisons/gpt-4o-vs-claude-3-5-sonnet/
+- GPT-4o vs Gemini 1.5 Pro — /en/comparisons/gpt-4o-vs-gemini-1-5-pro/
+- Claude 3.5 Sonnet vs Llama 3.1 405B — /en/comparisons/claude-3-5-sonnet-vs-llama-3-1-405b/
+
+## Benchmarks
+
+- MMLU — 57-subject multiple-choice knowledge evaluation
+- HumanEval — 164 Python programming tasks (pass@1)
+- GSM8K — Grade-school math word problems
+- MATH — Competition-level mathematics
+- BBH — Big-Bench Hard reasoning tasks
+
+## Data Source
+
+- Benchmark data sourced from Hugging Face and Papers with Code.
+- Pricing data sourced from vendor official documentation, verified monthly.
+- Compliance data sourced from vendor trust centers and official documentation.
+
+## Notes
+
+- All scores are sourced from public vendor announcements and academic papers.
+- Pricing is per 1 million tokens (Mtok) unless otherwise noted.
+- This site is not affiliated with or endorsed by any AI vendor.
+- OpenAI®, ChatGPT®, GPT® are trademarks of OpenAI; Claude® is a trademark of Anthropic; Gemini® is a trademark of Google; Llama® is a trademark of Meta.

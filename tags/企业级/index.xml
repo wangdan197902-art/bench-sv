@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>企业级 on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/tags/%E4%BC%81%E4%B8%9A%E7%BA%A7/</link><description>Recent content in 企业级 on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bench-sv.ai-term-hub.com/tags/%E4%BC%81%E4%B8%9A%E7%BA%A7/index.xml" rel="self" type="application/rss+xml"/><item><title>Command R+：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/command-r-plus/</link><pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/command-r-plus/</guid><description>&lt;h1 id="command-r">Command R+&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Command R+ 是 Cohere 于 2024 年 4 月 4 日发布的企业级旗舰模型。拥有 104B 参数与 128K 上下文窗口，模型专门针对检索增强生成（RAG）、工具调用与结构化输出优化——这些工作流在企业生产部署中占主导地位。Cohere 将 Command R+ 定位为构建生产级 RAG 管道的首选，强调其在引用质量与答案扎实度（groundedness）上业界领先。模型原生支持工具调用、JSON 模式输出以及对检索文档的多步推理。Cohere 同样强调数据隐私：客户提示绝不用于训练，模型可通过 AWS、Azure、Google Cloud、Oracle Cloud 调用，并具备 SOC2、GDPR、ISO 27001 合规认证。Command R+ 研究版以 CC-BY-NC-4.0 协议发布，商用须通过 Cohere API。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>Cohere&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>r-plus&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-04-04&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>128,000 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>CC-BY-NC-4.0（研究用）；商用通过 Cohere API&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://docs.cohere.com/docs/command-r-plus">https://docs.cohere.com/docs/command-r-plus&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>75.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>70.7&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>68.4&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>35.6&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>66.1&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入&lt;/td>
+ &lt;td>$2.50&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出&lt;/td>
+ &lt;td>$10.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://cohere.com/pricing （截至 2024-08-01）。&lt;/p></description></item></channel></rss>

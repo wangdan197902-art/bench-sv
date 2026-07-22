@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Benchmarks on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/benchmarks/</link><description>Recent content in Benchmarks on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bench-sv.ai-term-hub.com/benchmarks/index.xml" rel="self" type="application/rss+xml"/><item><title>IFEval: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/ifeval/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/ifeval/</guid><description>&lt;h1 id="ifeval">IFEval&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>评估大型语言模型严格遵循指令的能力，包含500个可验证的指令&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>reasoning&lt;/td>
+ &lt;td>Apache-2.0&lt;/td>
+ &lt;td>2024-02-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/google/IFEval">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/ifeval">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/google-research/google-research/tree/master/instruction_following_eval">https://github.com/google-research/google-research/tree/master/instruction_following_eval&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MUSR: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/musr/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/musr/</guid><description>&lt;h1 id="musr">MUSR&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>评估多步骤软推理能力，包含逻辑、数学和高效推理三个领域各250个问题&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>reasoning&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-02-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/Zayne-sprague/MUSR">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/musr">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/Zayne-sprague/MUSR">https://github.com/Zayne-sprague/MUSR&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>WinoGrande: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/winogrande/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/winogrande/</guid><description>&lt;h1 id="winogrande">WinoGrande&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>大规模Winograd Schema挑战集，需要常识推理来消除代词指代歧义&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>reasoning&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-02-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/allenai/winogrande">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/winogrande">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://winogrande.allenai.org">https://winogrande.allenai.org&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GPQA: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/gpqa/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/gpqa/</guid><description>&lt;h1 id="gpqa">GPQA&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>由生物学、物理学、化学领域的博士专家撰写的难题集，确保问题难以通过Google搜索直接找到答案&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>CC-BY-4.0&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/idavidrein/gpqa">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gpqa">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/idavidrein/gpqa">https://github.com/idavidrein/gpqa&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MMLU (Massive Multitask Language Understanding): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/mmlu/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/mmlu/</guid><description>&lt;h1 id="mmlu-massive-multitask-language-understanding">MMLU (Massive Multitask Language Understanding)&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>57 学科多选题知识评测，覆盖人文、社科、STEM、医学等领域，共 14042 道题，评估模型的广泛世界知识与问题解决能力。&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>knowledge&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2024-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/cais/mmlu">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/mmlu">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/test">https://github.com/hendrycks/test&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>BBH (BIG-Bench Hard): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/bbh/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/bbh/</guid><description>&lt;h1 id="bbh-big-bench-hard">BBH (BIG-Bench Hard)&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>BIG-Bench 的 23 个最难任务子集，覆盖逻辑推理、符号操作、常识推理等领域，传统模型表现不佳，用于评估模型的复杂推理能力。&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>reasoning&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2022-10-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/lukaemon/bbh">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/bbh">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/suzgunmirac/BIG-Bench-Hard">https://github.com/suzgunmirac/BIG-Bench-Hard&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>HumanEval: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/humaneval/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/humaneval/</guid><description>&lt;h1 id="humaneval">HumanEval&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>OpenAI 发布的 164 道 Python 编程任务，每题包含函数签名、文档字符串、函数体与单元测试，评估模型的代码生成能力（pass@1）。&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>coding&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2022-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>pass@1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/openai_humaneval">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/humaneval">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/openai/human-eval">https://github.com/openai/human-eval&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>GSM8K (Grade School Math 8K): Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/gsm8k/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/gsm8k/</guid><description>&lt;h1 id="gsm8k-grade-school-math-8k">GSM8K (Grade School Math 8K)&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>OpenAI 发布的 8500 道小学数学应用题，需要 2-8 步推理求解，评估模型的多步数学推理与基础算术能力。&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>math&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2021-10-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/openai/gsm8k">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/gsm8k">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/openai/grade-school-math">https://github.com/openai/grade-school-math&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>MATH: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/math/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/math/</guid><description>&lt;h1 id="math">MATH&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>12,500 道竞赛数学题（含 7 个学科：代数、几何、数论、微积分、概率等，5 个难度级别），评估模型的复杂数学推理能力。&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>math&lt;/td>
+ &lt;td>MIT&lt;/td>
+ &lt;td>2021-01-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/competition_math">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/math">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/hendrycks/math">https://github.com/hendrycks/math&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>ARC: Benchmark Detailed Guide</title><link>https://bench-sv.ai-term-hub.com/benchmarks/arc/</link><pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/benchmarks/arc/</guid><description>&lt;h1 id="arc">ARC&lt;/h1>
+&lt;h2 id="beskrivning">Beskrivning&lt;/h2>
+&lt;p>小学级别科学考试问题集，分为Easy和Challenge两个子集，挑战子集需要推理能力&lt;/p>
+&lt;h2 id="kärnspecifikationer">Kärnspecifikationer&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Kategori&lt;/th>
+ &lt;th>Licens&lt;/th>
+ &lt;th>Senast uppdaterad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>reasoning&lt;/td>
+ &lt;td>CC-BY-SA-4.0&lt;/td>
+ &lt;td>2018-02-01&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="benchmark">Benchmark&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Enhet&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="källor">Källor&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://huggingface.co/datasets/ai2_arc">Hugging Face&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paperswithcode.com/dataset/arc">Papers with Code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="officiell-url">Officiell URL&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://allenai.org/data/arc">https://allenai.org/data/arc&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

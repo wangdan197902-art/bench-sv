@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>实时 on AI Benchmark Hub - Svenska</title><link>https://bench-sv.ai-term-hub.com/tags/%E5%AE%9E%E6%97%B6/</link><description>Recent content in 实时 on AI Benchmark Hub - Svenska</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bench-sv.ai-term-hub.com/tags/%E5%AE%9E%E6%97%B6/index.xml" rel="self" type="application/rss+xml"/><item><title>Grok-2：完整基准性能指南</title><link>https://bench-sv.ai-term-hub.com/zh/models/grok-2/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><guid>https://bench-sv.ai-term-hub.com/zh/models/grok-2/</guid><description>&lt;h1 id="grok-2">Grok-2&lt;/h1>
+&lt;h2 id="模型概述">模型概述&lt;/h2>
+&lt;p>Grok-2 是 xAI 于 2024 年 8 月 13 日发布的旗舰模型。模型最大亮点是与 X（原 Twitter）平台的紧密集成，可对实时事件与热门话题保持感知——这是其他旗舰模型无法匹配的能力。Grok-2 接受文本与图像输入，支持 131K 上下文窗口，在学术基准上与 GPT-4o、Claude 3.5 Sonnet 同台竞争。MMLU 得分 87.5，接近 GPT-4o（88.7）与 Claude 3.5 Sonnet（88.7）。模型可通过 X 平台的 Grok 聊天机器人（Premium 订阅用户）与 xAI API 调用。Grok-2 还以相对宽松的内容策略著称，xAI 将其作为面向希望减少拒绝率用户的特点进行宣传。&lt;/p>
+&lt;h2 id="核心规格">核心规格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>属性&lt;/th>
+ &lt;th>数值&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>厂商&lt;/td>
+ &lt;td>xAI&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>版本&lt;/td>
+ &lt;td>2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>发布日期&lt;/td>
+ &lt;td>2024-08-13&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>上下文窗口&lt;/td>
+ &lt;td>131,072 tokens&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输入模态&lt;/td>
+ &lt;td>文本、图像&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出模态&lt;/td>
+ &lt;td>文本&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>许可证&lt;/td>
+ &lt;td>专有&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>文档地址&lt;/td>
+ &lt;td>&lt;a href="https://docs.x.ai/">https://docs.x.ai/&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="基准测试表现">基准测试表现&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>基准&lt;/th>
+ &lt;th>得分&lt;/th>
+ &lt;th>单位&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>MMLU&lt;/td>
+ &lt;td>87.5&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>5-shot&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HumanEval&lt;/td>
+ &lt;td>88.4&lt;/td>
+ &lt;td>pass@1&lt;/td>
+ &lt;td>—&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>GSM8K&lt;/td>
+ &lt;td>93.2&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>MATH&lt;/td>
+ &lt;td>76.8&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>0-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>BBH&lt;/td>
+ &lt;td>84.0&lt;/td>
+ &lt;td>%&lt;/td>
+ &lt;td>3-shot CoT&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="定价">定价&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>档位&lt;/th>
+ &lt;th>价格（每百万 token）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>输入&lt;/td>
+ &lt;td>$2.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>输出&lt;/td>
+ &lt;td>$10.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存读取&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缓存写入&lt;/td>
+ &lt;td>$0.00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>定价来源：https://x.ai/api （截至 2024-08-13）。&lt;/p></description></item></channel></rss>
